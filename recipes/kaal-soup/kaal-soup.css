@@ -1,0 +1,40 @@
+body {
+    background-color: brown;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.heading-one {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.heading-two {
+    font-weight: 700;
+    font-size: 60px;
+}
+
+.ingredients {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#ingredient-list {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+#preparation {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+#steps {
+    font-size: 16px;
+    font-weight: 100;
+}
+
+.homepage .top. .chilli-chicken .ambur-biryani {
+    font-size: 30px;
+}
