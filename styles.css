@@ -1,0 +1,24 @@
+body {
+    background-color: #000000;
+}
+
+.heading {    
+    color: green;
+    text-align: center;
+    font-size: 80px;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.description {
+    color: bisque;
+    text-align: left;
+    font-size: 30px;
+    font-style: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.list {
+    text-align: left;
+    color: blueviolet;
+}
