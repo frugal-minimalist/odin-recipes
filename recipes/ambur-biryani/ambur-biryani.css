@@ -1,0 +1,38 @@
+body {
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+div {
+    text-align: center;
+}
+
+.recipe-name {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.description {
+    font-size: 60px;
+    font-weight: 700;
+}
+
+.ingredients, .steps {
+    text-align: left;
+    font-size: 40px;
+    font-weight: 500;
+}
+
+#ingredient-list, #steps-list {
+    font-size: 16px;
+    font-weight: 100;
+    text-align: left;
+}
+
+.homepage,
+.top,
+.kaal-soup,
+.chilli-chicken {
+    font-size: 30px;
+    text-align: left;
+}
