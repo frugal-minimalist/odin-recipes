@@ -14,27 +14,23 @@ body {
     font-size: 60px;
 }
 
-.ingredients {
+.ingredients, .preparation, .steps {
     text-align: left;
     font-size: 40px;
     font-weight: 500;
 }
 
-#ingredient-list {
-    font-size: 16px;
-    font-weight: 100;
-}
-
-#preparation {
-    font-size: 16px;
-    font-weight: 100;
-}
-
+#ingredient-list,
+#preparation,
 #steps {
     font-size: 16px;
     font-weight: 100;
+    text-align: left;
 }
 
-.homepage .top. .chilli-chicken .ambur-biryani {
+.homepage,
+.top,
+.chilli-chicken,
+.ambur-biryani {
     font-size: 30px;
 }
