@@ -8,6 +8,8 @@ Each commit was a challenge. I have brushed upon my commiting skills, learning w
 
 The use of images, links, lists, headings, etc, has made me improve my understanding of the precise use of elements and relevant attributes. The HTML boilerplate has become second nature to me now.
 
-I will be reviewing this project further while i'm studying future topics to see areas where I can improve the project and make it look & feel better.
+After learning CSS, I've come back to review this project. I have created stylesheets for each recipe and the index. Added various different styles to each recipe using class, id and type selectors. This helped me brush upon my CSS skills and understand and implement concepts like specificity, grouping selectors, etc.
+
+With my future learnings, I will revisit the project and try to improve it further on.
 
 A lot was learnt doing this project, thank you TOP.
